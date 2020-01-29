@@ -11,7 +11,7 @@ https://colab.research.google.com/drive/1w6dXfUlEahI7M7HG2zSlW7QfkL-xA6vO
 You just need to provide the company name and choose the relevant option to show you the currect URL for your query.
 
 # example
-Google search using Python
+Google search using Python as on 29th Jan '20
 
 Please provide the company name: HDFC 
 
